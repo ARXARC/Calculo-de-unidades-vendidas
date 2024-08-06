@@ -17,9 +17,11 @@ Solicitar al usuario que ingrese el precio del producto 1 (P1)
 Solicitar al usuario que ingrese el precio del producto 2 (P2)
 Solicitar al usuario que ingrese la ganancia deseada (G)
 Solicitar al usuario que ingrese el total de unidades que se pueden producir (UT)
+
 Cálculo de unidades:
 Calcular la cantidad de unidades del producto 1 que se deben producir (unidades_P1) utilizando la fórmula: (P2 * UT - G) / (-P1 + P2)
 Calcular la cantidad de unidades del producto 2 que se deben producir (unidades_P2) restando la cantidad de unidades del producto 1 del total de unidades que se pueden producir: UT - unidades_P1
+
 Salida de resultados:
 Imprimir la cantidad de unidades del producto 1 que se deben producir (unidades_P1)
 Imprimir la cantidad de unidades del producto 2 que se deben producir (unidades_P2)
